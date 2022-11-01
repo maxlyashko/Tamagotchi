@@ -1,4 +1,4 @@
-package com.lyashko.hw7;
+package com.lyashko.tamagotchi;
 
 public class Main {
     public static void main ( String[] args ) {

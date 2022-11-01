@@ -1,4 +1,4 @@
-package com.lyashko.hw7;
+package com.lyashko.tamagotchi;
 
 import java.util.*;
 
